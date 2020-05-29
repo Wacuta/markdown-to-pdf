@@ -1,3 +1,8 @@
+# Default output file
+input/*
+!input/README-EXAMPLE.md
+output/
+
 # Logs
 logs
 *.log
